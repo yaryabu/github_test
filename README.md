@@ -2,4 +2,4 @@
 
 
 test1
-test conflict from branch_one
+test conflict from branch_two
