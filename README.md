@@ -2,4 +2,4 @@
 
 
 test1
-master_branch   test conflict from branch_one
+test conflict from branch_one
