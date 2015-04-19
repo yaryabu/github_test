@@ -3,3 +3,5 @@
 
 test1
 test conflict from branch_two
+
+new line
